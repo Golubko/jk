@@ -1,0 +1,1 @@
+random_string = generate_random_string(20)
